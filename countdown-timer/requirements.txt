@@ -1,0 +1,2 @@
+# No additional dependencies required
+# This project only uses tkinter which comes bundled with Python 
